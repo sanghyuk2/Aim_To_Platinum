@@ -27,6 +27,8 @@
 
 ## 📍 Commit Message Convention
 - ADD : 문제 풀이 파일이나 부수적인 코드 추가
+  - 파일을 업로드 할 때는 다음과 같은 형식을 따라 주세요
+  - ADD : [Backtracking] 백준 1234번 풀이
 - MOD : 코드 및 내부 파일 수정
 - DEL : 쓸모없는 코드나 파일 삭제
 - CORRECT : 문법 오류 해결, 타입 변경, 이름 변경 등의 작은 수정
