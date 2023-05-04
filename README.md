@@ -5,16 +5,16 @@
 - ⚠️ 문제를 답안을 참고하지 않고 풀도록 노력해주세요. 답지를 보고 베끼는것은 실력향상에 도움이 안됩니다!
 <br></br>
 
-|  | 이상혁 | 정은기 | 황인혁 |
-| :---: | :---: | :---: | :---: |
-| GitHub | [![sanghyuk2](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) | [![eunki96](https://github.com/eunki96.png?width=200px)](https://github.com/eunki96) | [![ENyukH](https://github.com/ENyukH.png?width=200px)](https://github.com/ENyukH) |
-| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
+|  | 이상혁 | 정은기 | 황인혁 | 엄수혁 |
+| :---: | :---: | :---: | :---: | :---: |
+| GitHub | [![sanghyuk2](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) | [![eunki96](https://github.com/eunki96.png?width=200px)](https://github.com/eunki96) | [![ENyukH](https://github.com/ENyukH.png?width=200px)](https://github.com/ENyukH) |[![endlessmomo](https://github.com/endlessmomo.png?width=200px)](https://github.com/endlessmomo) |
+| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
 
 
 ## 📍 Progress Record
-|   주차    |      날짜       | 이상혁 | 정은기 | 황인혁 | 
-|:-------:|:-------------:|:-------:|:---------:|:--------:|
-| week_01 | 05-03 ~ 05-10 |    ✅    |     ✅     |    ✅     |
+|   주차    |      날짜       | 이상혁 | 정은기 | 황인혁 | 엄수혁 | 
+|:-------:|:-------------:|:-------:|:---------:|:--------:|:--------:|
+| week_01 | 05-03 ~ 05-10 |    ✅    |     ✅     |    ✅     |    ✅     |
 
 
 | 업로드 횟수 | 표기 |
