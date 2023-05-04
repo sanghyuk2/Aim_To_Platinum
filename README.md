@@ -8,7 +8,7 @@
 |  | 이상혁 | 정은기 | 황인혁 |
 | :---: | :---: | :---: | :---: |
 | GitHub | [![sanghyuk2](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) | [![eunki96](https://github.com/eunki96.png?width=200px)](https://github.com/eunki96) | [![ENyukH](https://github.com/ENyukH.png?width=200px)](https://github.com/ENyukH) |
-| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
+| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
 
 
 ## 📍 Progress Record
