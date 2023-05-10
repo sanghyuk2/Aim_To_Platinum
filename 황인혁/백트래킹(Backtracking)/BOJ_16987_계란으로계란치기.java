@@ -103,23 +103,3 @@ public class BOJ_16987_계란으로계란치기 {
         }
     }
 }
-
-    public static void dfs(int start, int now, int sum, int cnt) {
-
-        if (cnt == N - 1) {
-            if (route[now][start] != 0) {
-                sum += route[now][start];
-                routeMin = Math.min(sum, routeMin);
-            }
-            return;
-        }
-
-        for (int i = 0; i < N; i++) {
-            if (!visited[i] && route[now][i] > 0) {
-                visited[i] = true;
-                dfs(start, i, sum + route[now][i], cnt+1);//*
-                visited[i] = false;
-            }
-        }
-    }
-}
