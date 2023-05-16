@@ -1,6 +1,6 @@
 # 🌱 엄수혁 ([endlessmomo](https://github.com/endlessmomo))
 
-### Week 01 (23.05.03.)
+### Week 01 (23.05.04.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15665">백준 13771번 : N과 M(11)</a> | <a href="https://www.google.com/">🔗</a> |
@@ -10,6 +10,12 @@
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/2580">백준 2580번 : 스도쿠</a> | <a href="https://www.google.com/">🔗</a> |
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/17136">백준 17136번 : 색종이 붙이기</a> | <a href="https://www.google.com/">🔗</a> |
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/1799">백준 1799번 : 비숍</a> | <a href="https://www.google.com/">🔗</a> |
+
+### Week 02 (23.05.15.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/2630">백준 2630번 : 색종이 만들기</a> | <a href="https://www.google.com/">🔗</a> |
+| 분할 정복 (Divide and Conquer) |  <a href="https://www.acmicpc.net/problem/2448">백준 2448번 : 별 찍기 - 11</a>  | <a href="https://www.google.com/">🔗</a> |
 
 ## 📍 Repository Structure
 
