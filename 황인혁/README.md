@@ -13,6 +13,7 @@
 | :------: | :---: | :--: |
 | 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/2630">백준 2630번 : 색종이 만들기</a> | <a href="https://www.google.com/">🔗</a> |
 | 분할 정복 (Divide and Conquer) |  <a href="https://www.acmicpc.net/problem/2448">백준 2448번 : 별 찍기 - 11</a>  | <a href="https://www.google.com/">🔗</a> |
+| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/1074">백준 1074번 : Z</a> | <a href="https://www.google.com/">🔗</a> |
 
 ## 📍 Repository Structure
 
