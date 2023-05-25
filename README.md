@@ -5,18 +5,18 @@
 - ⚠️ 문제를 답안을 참고하지 않고 풀도록 노력해주세요. 답지를 보고 베끼는것은 실력향상에 도움이 안됩니다!
 <br></br>
 
-|  | 이상혁 | 정은기 | 황인혁 | 엄수혁 |
-| :---: | :---: | :---: | :---: | :---: |
-| GitHub | [![sanghyuk2](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) | [![eunki96](https://github.com/eunki96.png?width=200px)](https://github.com/eunki96) | [![ENyukH](https://github.com/ENyukH.png?width=200px)](https://github.com/ENyukH) |[![endlessmomo](https://github.com/endlessmomo.png?width=200px)](https://github.com/endlessmomo) |
-| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
+|  | 이상혁 | 정은기 | 황인혁 | 엄수혁 | 이다인 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| GitHub | [![sanghyuk2](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) | [![eunki96](https://github.com/eunki96.png?width=200px)](https://github.com/eunki96) | [![ENyukH](https://github.com/ENyukH.png?width=200px)](https://github.com/ENyukH) |[![endlessmomo](https://github.com/endlessmomo.png?width=200px)](https://github.com/endlessmomo) |[![Dain-lee](https://github.com/dain-lee.png?width=200px)](https://github.com/dain-lee)
+| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white">
 
 
 ## 📍 Progress Record
-|   주차    |      날짜       | 이상혁 | 정은기 | 황인혁 | 엄수혁 | 
-|:-------:|:-------------:|:-------:|:---------:|:--------:|:--------:|
-| week_01 | 05-03 ~ 05-14 |    3️⃣    |     ✅     |    ✅    |    3️⃣     |
-| week_02 | 05-15 ~ 05-21 |          |           |         |          |
-| week_03 | 05-22 ~ 05-28 |          |           |         |          |
+|   주차    |      날짜       | 이상혁 | 정은기 | 황인혁 | 엄수혁 | 이다인 |
+|:-------:|:-------------:|:-------:|:---------:|:--------:|:--------:|:--------:|
+| week_01 | 05-03 ~ 05-14 |    3️⃣    |     ✅     |    ✅    |    3️⃣     |    `중간참여`     |
+| week_02 | 05-15 ~ 05-21 |          |           |         |          |          |
+| week_03 | 05-22 ~ 05-28 |          |           |         |          |          |
 
 
 | 업로드 횟수 | 표기 |
