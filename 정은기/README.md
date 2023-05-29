@@ -3,10 +3,10 @@
 ### Week 01 (23.05.04.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 백트래킹 (Backtracking) |  <a href="https://www.acmicpc.net/problem/10971">백준 10971번 : 외판원순회</a>  | <a href="https://www.google.com/">🔗</a> |
-| 백트래킹 (Backtracking) |   <a href="https://www.acmicpc.net/problem/16987">백준 16987번 : 계란으로 계란치기</a>   |  <a href="https://www.google.com/">🔗</a>  |
-| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/9663">백준 9663번 : N-Queen</a> | <a href="https://www.google.com/">🔗</a> |
-| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/17136">백준 17136번 : 색종이 붙이기</a> | <a href="https://www.google.com/">🔗</a> |
+| 백트래킹 (Backtracking) |  <a href="https://www.acmicpc.net/problem/10971">백준 10971번 : 외판원순회</a>  | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9(Backtracking)/BOJ_10971_%EC%99%B8%ED%8C%90%EC%9B%90%EC%88%9C%ED%9A%8C.java">🔗</a> |
+| 백트래킹 (Backtracking) |   <a href="https://www.acmicpc.net/problem/16987">백준 16987번 : 계란으로 계란치기</a>   |  <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9(Backtracking)/BOJ_16987_%EA%B3%84%EB%9E%80%EC%9C%BC%EB%A1%9C_%EA%B3%84%EB%9E%80%EC%B9%98%EA%B8%B0.java">🔗</a>  |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/9663">백준 9663번 : N-Queen</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9(Backtracking)/BOJ_9663_N_Queen.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/17136">백준 17136번 : 색종이 붙이기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9(Backtracking)/BOJ_17136_%EC%83%89%EC%A2%85%EC%9D%B4_%EB%B6%99%EC%9D%B4%EA%B8%B0.java">🔗</a> |
 
 ### Week 02 (23.05.15.)
 | Category | Title | Link |
