@@ -4,8 +4,19 @@
 
 |            Category            |                                     Title                                      |                   Link                   |
 | :----------------------------: | :----------------------------------------------------------------------------: | :--------------------------------------: |
-| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/2630">백준 2630번 : 색종이 만들기</a> | <a href="https://www.google.com/">🔗</a> |
-| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/2448">백준 2448번 : 별 찍기 - 11</a>  | <a href="https://www.google.com/">🔗</a> |
+| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/2630">백준 2630번 : 색종이 만들기</a> | <a href="https://www.acmicpc.net/problem/2630">🔗</a> |
+| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/2448">백준 2448번 : 별 찍기 - 11</a>  | <a href="https://www.acmicpc.net/problem/2448">🔗</a> |
+| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/1074">백준 1074번 : Z</a>  | <a href="https://www.acmicpc.net/problem/1074">🔗</a> |
+| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/1992">백준 1992번 : 쿼드트리</a>  | <a href="https://www.acmicpc.net/problem/1992">🔗</a> |
+
+### Week 03 (23.05.22.)
+
+|            Category            |                                     Title                                      |                   Link                   |
+| :----------------------------: | :----------------------------------------------------------------------------: | :--------------------------------------: |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1106">백준 1106번 : 호텔</a> | <a href="https://www.acmicpc.net/problem/1106">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2839">백준 2839번 : 설탕 배달</a>  | <a href="https://www.acmicpc.net/problem/2839">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/9095">백준 9095번 : 1, 2, 3 더하기</a>  | <a href="https://www.acmicpc.net/problem/9095">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/15486">백준 15486번 : 퇴사 2</a>  | <a href="https://www.acmicpc.net/problem/15486">🔗</a> |
 
 ## 📍 Repository Structure
 
