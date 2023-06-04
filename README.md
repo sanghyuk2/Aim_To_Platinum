@@ -1,20 +1,22 @@
 # Algorithm Study📝
-- 매주 화요일 23시 59분까지 <b>네 문제</b> 이상을 풀이하여 업로드합니다.</br>
+- 매주 일요일 23시 59분까지 <b>네 문제</b> 이상을 풀이하여 업로드합니다.</br>
 - ⚠️ 마감 직전에 자신에게 난이도가 낮은 문제를 급하게 풀이하여 올리는 것은 지양합시다!</br>
 - ⚠️ 스터디에 참여하지 못하는 경우에는 사전에 사유와 함께 팀원들에게 알려주세요!
 - ⚠️ 문제를 답안을 참고하지 않고 풀도록 노력해주세요. 답지를 보고 베끼는것은 실력향상에 도움이 안됩니다!
 <br></br>
 
-|  | 이상혁 | 정은기 | 황인혁 | 엄수혁 |
-| :---: | :---: | :---: | :---: | :---: |
-| GitHub | [![sanghyuk2](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) | [![eunki96](https://github.com/eunki96.png?width=200px)](https://github.com/eunki96) | [![ENyukH](https://github.com/ENyukH.png?width=200px)](https://github.com/ENyukH) |[![endlessmomo](https://github.com/endlessmomo.png?width=200px)](https://github.com/endlessmomo) |
-| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
+|  | 이상혁 | 정은기 | 황인혁 | 엄수혁 | 이다인 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| GitHub | [![sanghyuk2](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) | [![eunki96](https://github.com/eunki96.png?width=200px)](https://github.com/eunki96) | [![ENyukH](https://github.com/ENyukH.png?width=200px)](https://github.com/ENyukH) |[![endlessmomo](https://github.com/endlessmomo.png?width=200px)](https://github.com/endlessmomo) |[![Dain-lee](https://github.com/dain-lee.png?width=200px)](https://github.com/dain-lee)
+| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white">
 
 
 ## 📍 Progress Record
-|   주차    |      날짜       | 이상혁 | 정은기 | 황인혁 | 엄수혁 | 
-|:-------:|:-------------:|:-------:|:---------:|:--------:|:--------:|
-| week_01 | 05-03 ~ 05-10 |         |           |          |          |
+|   주차    |      날짜       | 이상혁 | 정은기 | 황인혁 | 엄수혁 | 이다인 |
+|:-------:|:-------------:|:-------:|:---------:|:--------:|:--------:|:--------:|
+| week_01 | 05-03 ~ 05-14 |     3️⃣     |     ✅     |     ✅     |     3️⃣     |     `참여`     |
+| week_02 | 05-15 ~ 05-21 |     ✅     |     ✅      |    ✅     |     ✅     |     ✅     |
+| week_03 | 05-22 ~ 05-28 |          |           |         |          |          |
 
 
 | 업로드 횟수 | 표기 |
