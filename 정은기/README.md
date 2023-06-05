@@ -19,10 +19,10 @@
 ### Week 03 (23.05.29.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 동적 계획법 (DP) | <a href="https://www.acmicpc.net/problem/11055">백준 11055번 : 가장 큰 증가하는 부분 수열</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_11055_%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4.java">🔗</a> |
-| 동적 계획법 (DP) |  <a href="https://www.acmicpc.net/problem/1106">백준 1106번 : 호텔</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_1106_%ED%98%B8%ED%85%94.java">🔗</a> |
-| 동적 계획법 (DP) |  <a href="https://www.acmicpc.net/problem/11727">백준 11727번 : 2xn 타일링_2</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_11727_2xn_%ED%83%80%EC%9D%BC%EB%A7%81_2.java">🔗</a> |
-| 동적 계획법 (DP) | <a href="https://www.acmicpc.net/problem/2839">백준 2839번 : 설탕 배달</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2839_%EC%84%A4%ED%83%95_%EB%B0%B0%EB%8B%AC.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11055">백준 11055번 : 가장 큰 증가하는 부분 수열</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_11055_%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) |  <a href="https://www.acmicpc.net/problem/1106">백준 1106번 : 호텔</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_1106_%ED%98%B8%ED%85%94.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) |  <a href="https://www.acmicpc.net/problem/11727">백준 11727번 : 2xn 타일링_2</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_11727_2xn_%ED%83%80%EC%9D%BC%EB%A7%81_2.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2839">백준 2839번 : 설탕 배달</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2839_%EC%84%A4%ED%83%95_%EB%B0%B0%EB%8B%AC.java">🔗</a> |
 
 ## 📍 Repository Structure
 
