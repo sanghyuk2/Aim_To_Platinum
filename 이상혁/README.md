@@ -18,10 +18,9 @@
 ### Week 03 (23.05.29.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/2630">백준 2630번 : 색종이 만들기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5(Divide%26Conquer)/BOJ_2630_%EC%83%89%EC%A2%85%EC%9D%B4%EB%A7%8C%EB%93%A4%EA%B8%B0.java">🔗</a> |
-| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/2630">백준 1992번 : 쿼드 트리</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5(Divide%26Conquer)/BOJ_1992_%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.java">🔗</a> |
-| 분할 정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/2630">백준 17829번 : 222-풀링</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5(Divide%26Conquer)/BOJ_17829_222-%ED%92%80%EB%A7%81.java">🔗</a> |
-| 분할 정복 (Divide and Conquer) |  <a href="https://www.acmicpc.net/problem/2448">백준 2448번 : 별 찍기 - 11</a>  | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5(Divide%26Conquer)/BOJ_2448_%EB%B3%84%EC%B0%8D%EA%B8%B011.java">🔗</a> |
+| 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2839">백준 2839번 : 설탕 배달</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2839_%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC.java">🔗</a> |
+| 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2579">백준 2579번 : 계단 오르기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2579_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0.java">🔗</a> |
+| 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2294">백준 2294번 : 동전 2</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2294_%EB%8F%99%EC%A0%842.java">🔗</a> |
 
 ## 📍 Repository Structure
 
