@@ -25,6 +25,7 @@
 | 동적 계획법 (Dynamic Programming) |     <a href="https://www.acmicpc.net/problem/15486">백준 15486번 : 퇴사 2</a>      | <a href="https://github.com/endlessmomo/Aim_To_Platinum/blob/main/%EC%97%84%EC%88%98%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_15486_%ED%87%B4%EC%82%AC2.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) |       <a href="https://www.acmicpc.net/problem/1106">백준 1106번 : 호텔</a>        | <a href="https://github.com/endlessmomo/Aim_To_Platinum/blob/main/%EC%97%84%EC%88%98%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_1106_%ED%98%B8%ED%85%94.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) |      <a href="https://www.acmicpc.net/problem/2294">백준 2294번 : 동전 2</a>       | <a href="https://github.com/endlessmomo/Aim_To_Platinum/blob/main/%EC%97%84%EC%88%98%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2294_%EB%8F%99%EC%A0%842.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) |      <a href="https://www.acmicpc.net/problem/2294">백준 2294번 : 동전 2</a>       | <a href="https://github.com/endlessmomo/Aim_To_Platinum/blob/main/%EC%97%84%EC%88%98%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2293_%EB%8F%99%EC%A0%84.java">🔗</a> |
 ## 📍 Repository Structure
 
 ```
