@@ -24,6 +24,14 @@
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11055">백준 11055번 : 가장 큰 증가하는 부분 수열</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_11055_%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) |  <a href="https://www.acmicpc.net/problem/1106">백준 1106번 : 호텔</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_1106_%ED%98%B8%ED%85%94.java">🔗</a> |
 
+### Week 04 (23.06.05.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 동적 계획법2 (Dynamic Programming2) | <a href="https://www.acmicpc.net/problem/15724">백준 15724번 : 주지수</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_15724_%EC%A3%BC%EC%A7%80%EC%88%98.java">🔗</a> |
+| 동적 계획법2 (Dynamic Programming2) |  <a href="https://www.acmicpc.net/problem/12865">백준 12865번 : 평범한 배낭</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_12865_%ED%8F%89%EB%B2%94%ED%95%9C_%EB%B0%B0%EB%82%AD.java">🔗</a> |
+| 동적 계획법2 (Dynamic Programming2) | <a href="https://www.acmicpc.net/problem/5557">백준 5557번 : 1학년</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_5557_1%ED%95%99%EB%85%84.java">🔗</a> |
+| 동적 계획법2 (Dynamic Programming2) |  <a href="https://www.acmicpc.net/problem/1695">백준 1695번 : 팰린드롬 만들기</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_1695_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC_%EB%A7%8C%EB%93%A4%EA%B8%B0.java">🔗</a> |
+
 
 
 ## 📍 Repository Structure
