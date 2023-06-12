@@ -19,8 +19,18 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2839">백준 2839번 : 설탕 배달</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2839_%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC.java">🔗</a> |
+| 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11727">백준 11727번 : 2 X n 타일링 2</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_11727_2xn_%ED%83%80%EC%9D%BC%EB%A7%81_2.java">🔗</a> |
 | 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2579">백준 2579번 : 계단 오르기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2579_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0.java">🔗</a> |
 | 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2294">백준 2294번 : 동전 2</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2294_%EB%8F%99%EC%A0%842.java">🔗</a> |
+| 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1106">백준 1106번 : 호텔</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_1106_%ED%98%B8%ED%85%94.java">🔗</a> |
+
+### Week 04 (23.06.05.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 동적 계획법2(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/15724">백준 15724번 : 주지수</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_15724_%EC%A3%BC%EC%A7%80%EC%88%98.java">🔗</a> |
+| 동적 계획법2(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/12865">백준 12865번 : 평범한 배낭</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_12865_%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%AD.java">🔗</a> |
+| 동적 계획법2(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/14567">백준 14567번 : 선수 과목</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_14567_%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9(Prerequisite).java">🔗</a> |
+| 동적 계획법2(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/5557">백준 5577번 : 1학년</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_5557_1%ED%95%99%EB%85%84.java">🔗</a> |
 
 ## 📍 Repository Structure
 
