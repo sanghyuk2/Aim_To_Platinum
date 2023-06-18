@@ -15,7 +15,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class bk_20115 {
+public class  BOJ_20115_에너지_드링크{
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
