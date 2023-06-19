@@ -32,6 +32,14 @@
 | 동적 계획법2 (Dynamic Programming2) | <a href="https://www.acmicpc.net/problem/5557">백준 5557번 : 1학년</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_5557_1%ED%95%99%EB%85%84.java">🔗</a> |
 | 동적 계획법2 (Dynamic Programming2) |  <a href="https://www.acmicpc.net/problem/1695">백준 1695번 : 팰린드롬 만들기</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_1695_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC_%EB%A7%8C%EB%93%A4%EA%B8%B0.java">🔗</a> |
 
+### Week 05 (23.06.12.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/20300">백준 20300번 : 서강근육맨</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_20300_%EC%84%9C%EA%B0%95%EA%B7%BC%EC%9C%A1%EB%A7%A8.java">🔗</a> |
+| 탐욕법 (Greedy) |  <a href="https://www.acmicpc.net/problem/20115">백준 20115번 : 에너지 드링크</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_20115_%EC%97%90%EB%84%88%EC%A7%80_%EB%93%9C%EB%A7%81%ED%81%AC.java">🔗</a> |
+| 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/21758">백준 21758번 : 꿀 따기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_21758_%EA%BF%80_%EB%94%B0%EA%B8%B0.java">🔗</a> |
+| 탐욕법 (Greedy) |  <a href="https://www.acmicpc.net/problem/2812">백준 2812번 : 크게 만들기</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_2812_%ED%81%AC%EA%B2%8C_%EB%A7%8C%EB%93%A4%EA%B8%B0.java">🔗</a> |
+
 
 
 ## 📍 Repository Structure
