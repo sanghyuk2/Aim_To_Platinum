@@ -36,6 +36,15 @@
 | 동적 계획법2(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1695">백준 1695번 : 펠린드롬 만들기</a> | <a href="https://www.acmicpc.net/problem/1695">🔗</a>  |
 | 동적 계획법2(Dynamic Programming) |    <a href="https://www.acmicpc.net/problem/1520">백준 1520번 : 내리막 길</a>    | <a href="https://www.acmicpc.net/problem/1520">🔗</a>  |
 
+### Week 05 (23.06.12.)
+
+|    Category    |                                      Title                                       |                          Link                          |
+| :------------: | :------------------------------------------------------------------------------: | :----------------------------------------------------: |
+| 탐욕법(Greedy) |  <a href="https://www.acmicpc.net/problem/20300">백준 20300번 : 서강근육맨</a>   | <a href="https://www.acmicpc.net/problem/20300">🔗</a> |
+| 탐욕법(Greedy) |   <a href="https://www.acmicpc.net/problem/2812">백준 2812번 : 크게 만들기</a>   | <a href="https://www.acmicpc.net/problem/2812">🔗</a>  |
+| 탐욕법(Greedy) | <a href="https://www.acmicpc.net/problem/20115">백준 20115번 : 에너지 드링크</a> | <a href="https://www.acmicpc.net/problem/20115">🔗</a> |
+| 탐욕법(Greedy) |    <a href="https://www.acmicpc.net/problem/21758">백준 21758번 : 꿀 따기</a>    | <a href="https://www.acmicpc.net/problem/21758">🔗</a> |
+
 ## 📍 Repository Structure
 
 ```
