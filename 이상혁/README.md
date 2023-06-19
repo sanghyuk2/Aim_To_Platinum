@@ -32,6 +32,16 @@
 | 동적 계획법2(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/14567">백준 14567번 : 선수 과목</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_14567_%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9(Prerequisite).java">🔗</a> |
 | 동적 계획법2(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/5557">백준 5577번 : 1학년</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_5557_1%ED%95%99%EB%85%84.java">🔗</a> |
 
+### Week 05 (23.06.12.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/11399">백준 11399번 : ATM</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_11399_ATM.java">🔗</a> |
+| 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/20300">백준 20300번 : 서강근육맨</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_20300_%EC%84%9C%EA%B0%95%EA%B7%BC%EC%9C%A1%EB%A7%A8.java">🔗</a> |
+| 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/20115">백준 20115번 : 에너지 드링크</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_20115_%EC%97%90%EB%84%88%EC%A7%80_%EB%93%9C%EB%A7%81%ED%81%AC.java">🔗</a> |
+| 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/16953">백준 16953번 : A → B</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_16953_A%E2%86%92B.java">🔗</a> |
+| 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/11000">백준 11000번 : 강의실 배정</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_11000_%EA%B0%95%EC%9D%98%EC%8B%A4_%EB%B0%B0%EC%A0%95.java">🔗</a> |
+| 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/2812">백준 2812번 : 크게 만들기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_2812_%ED%81%AC%EA%B2%8C_%EB%A7%8C%EB%93%A4%EA%B8%B0.java">🔗</a> |
+
 ## 📍 Repository Structure
 
 ```
