@@ -45,6 +45,15 @@
 | 탐욕법(Greedy) | <a href="https://www.acmicpc.net/problem/20115">백준 20115번 : 에너지 드링크</a> | <a href="https://www.acmicpc.net/problem/20115">🔗</a> |
 | 탐욕법(Greedy) |    <a href="https://www.acmicpc.net/problem/21758">백준 21758번 : 꿀 따기</a>    | <a href="https://www.acmicpc.net/problem/21758">🔗</a> |
 
+### Week 06 (23.06.19.)
+
+|      Category       |                                          Title                                           |                          Link                          |
+| :-----------------: | :--------------------------------------------------------------------------------------: | :----------------------------------------------------: |
+| 최단 경로(Dijkstra) |       <a href="https://www.acmicpc.net/problem/11403">백준 11403번 : 경로 찾기</a>       | <a href="https://www.acmicpc.net/problem/11403">🔗</a> |
+| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/18352">백준 18352번 : 특정 거리의 도시 찾기</a> | <a href="https://www.acmicpc.net/problem/18352">🔗</a> |
+| 최단 경로(Dijkstra) |          <a href="https://www.acmicpc.net/problem/1865">백준 1865번 : 웜홀</a>           | <a href="https://www.acmicpc.net/problem/1865">🔗</a>  |
+| 최단 경로(Dijkstra) |          <a href="https://www.acmicpc.net/problem/1956">백준 1956번 : 운동</a>           | <a href="https://www.acmicpc.net/problem/1956">🔗</a>  |
+
 ## 📍 Repository Structure
 
 ```
