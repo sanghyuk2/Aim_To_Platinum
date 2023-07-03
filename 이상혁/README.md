@@ -42,6 +42,13 @@
 | 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/11000">백준 11000번 : 강의실 배정</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_11000_%EA%B0%95%EC%9D%98%EC%8B%A4_%EB%B0%B0%EC%A0%95.java">🔗</a> |
 | 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/2812">백준 2812번 : 크게 만들기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_2812_%ED%81%AC%EA%B2%8C_%EB%A7%8C%EB%93%A4%EA%B8%B0.java">🔗</a> |
 
+### Week 06 (23.06.19.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/11403">백준 11403번 : 경로 찾기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11403_%EA%B2%BD%EB%A1%9C_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
+| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/18352">백준 18352번 : 특정 거리의 도시 찾기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_18352_%ED%8A%B9%EC%A0%95_%EA%B1%B0%EB%A6%AC%EC%9D%98_%EB%8F%84%EC%8B%9C_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
+| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/1956">백준 1956번 : 운동</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1956_%EC%9A%B4%EB%8F%99.java">🔗</a> |
+
 ## 📍 Repository Structure
 
 ```
