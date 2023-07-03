@@ -36,6 +36,15 @@
 | 탐욕법 (Greedy) |   <a href="https://www.acmicpc.net/problem/16953">백준 16953번 : A -> B</a>    |                      <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_16953_A-B.py">🔗</a>                       |
 | 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/20300">백준 20300번 : 서강근육맨</a>  | <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_20300_%EC%84%9C%EA%B0%95%EA%B7%BC%EC%9C%A1%EB%A7%A8.py">🔗</a>  |
 
+### Week 06 (23.06.19.)
+
+|       Category       |                                        Title                                        |                                                                                                                Link                                                                                                                 |
+| :------------------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 최단 경로 (Dijkstra) |        <a href="https://www.acmicpc.net/problem/1956">백준 1956번 : 운동</a>        |                         <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1956_%EC%9A%B4%EB%8F%99.py">🔗</a>                         |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/11265">백준 11265번 : 끝나지 않는 파티</a> | <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11265_%EB%81%9D%EB%82%98%EC%A7%80_%EC%95%8A%EB%8A%94_%ED%8C%8C%ED%8B%B0.py">🔗</a> |
+| 최단 경로 (Dijkstra) |    <a href="https://www.acmicpc.net/problem/11403">백준 11403번 : 경로 찾기</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11403_%EA%B2%BD%EB%A1%9C_%EC%B0%BE%EA%B8%B0.py">🔗</a>               |
+| 최단 경로 (Dijkstra) |     <a href="https://www.acmicpc.net/problem/11657">백준 11657번 : 타임머신</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11657_%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0.py">🔗</a>                |
+
 ## 📍 Repository Structure
 
 ```
