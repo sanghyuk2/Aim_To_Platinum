@@ -14,40 +14,38 @@ import java.util.StringTokenizer;
  * 없음
  * */
 
-public class Main {
-    public static void main(String[] args) {
-        static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-        static StringTokenizer st;
+public class BOJ_11403_경로_찾기 {
+    static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+    static StringTokenizer st;
 
-        public static void main (String[]args) throws IOException {
-            int N = Integer.parseInt(in.readLine());
-            int[][] route = new int[N][N];
+    public static void main(String[] args) throws IOException {
+        int N = Integer.parseInt(in.readLine());
+        int[][] route = new int[N][N];
 
-            for (int i = 0; i < N; i++) {
-                st = new StringTokenizer(in.readLine());
-                for (int j = 0; j < N; j++) {
-                    route[i][j] = Integer.parseInt(st.nextToken());
-                }
+        for (int i = 0; i < N; i++) {
+            st = new StringTokenizer(in.readLine());
+            for (int j = 0; j < N; j++) {
+                route[i][j] = Integer.parseInt(st.nextToken());
             }
+        }
 
-            for (int k = 0; k < N; k++) {
-                for (int i = 0; i < N; i++) {
-                    for (int j = 0; j < N; j++) {
-                        if (route[i][k] == 1 && route[k][j] == 1) {
-                            route[i][j] = 1;
-                        }
+        for (int k = 0; k < N; k++) {
+            for (int i = 0; i < N; i++) {
+                for (int j = 0; j < N; j++) {
+                    if (route[i][k] == 1 && route[k][j] == 1) {
+                        route[i][j] = 1;
                     }
                 }
             }
-            StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < N; i++) {
-                for (int j = 0; j < N; j++) {
-                    sb.append(route[i][j] + " ");
-                }
-                sb.append("\n");
-            }
-            System.out.println(sb);
-
         }
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < N; j++) {
+                sb.append(route[i][j] + " ");
+            }
+            sb.append("\n");
+        }
+        System.out.println(sb);
+
     }
 }
