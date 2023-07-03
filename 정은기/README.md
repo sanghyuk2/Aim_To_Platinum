@@ -40,6 +40,15 @@
 | 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/21758">백준 21758번 : 꿀 따기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_21758_%EA%BF%80_%EB%94%B0%EA%B8%B0.java">🔗</a> |
 | 탐욕법 (Greedy) |  <a href="https://www.acmicpc.net/problem/2812">백준 2812번 : 크게 만들기</a>  | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_2812_%ED%81%AC%EA%B2%8C_%EB%A7%8C%EB%93%A4%EA%B8%B0.java">🔗</a> |
 
+### Week 06 (23.06.19.)
+| Category | Title | Link |
+| :------: | :------: | :------: |
+| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/11403">백준 11403번 : 경로 찾기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11403_%EA%B2%BD%EB%A1%9C_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
+| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/1956">백준 1956번 : 운동</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1956_%EC%9A%B4%EB%8F%99.java">🔗</a> |
+| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/11404">백준 11404번 : 플로이드</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11404_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.java">🔗</a> |
+| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/11265">백준 11265번 : 끝나지 않은 파티</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11265_%EB%81%9D%EB%82%98%EC%A7%80_%EC%95%8A%EB%8A%94_%ED%8C%8C%ED%8B%B0.java">🔗</a> |
+
+
 
 
 ## 📍 Repository Structure
