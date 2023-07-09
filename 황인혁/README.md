@@ -54,6 +54,15 @@
 | 최단 경로(Dijkstra) |          <a href="https://www.acmicpc.net/problem/1865">백준 1865번 : 웜홀</a>           | <a href="https://www.acmicpc.net/problem/1865">🔗</a>  |
 | 최단 경로(Dijkstra) |          <a href="https://www.acmicpc.net/problem/1956">백준 1956번 : 운동</a>           | <a href="https://www.acmicpc.net/problem/1956">🔗</a>  |
 
+### Week 07 (23.07.03.)
+
+|  Category  |                                         Title                                          |                          Link                          |
+| :--------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------: |
+| 트리(Tree) |       <a href="https://www.acmicpc.net/problem/1991">백준 1991번 : 트리 순회</a>       | <a href="https://www.acmicpc.net/problem/1991">🔗</a>  |
+| 트리(Tree) |  <a href="https://www.acmicpc.net/problem/11725">백준 11725번 : 트리의 부모 찾기</a>   | <a href="https://www.acmicpc.net/problem/11725">🔗</a> |
+| 트리(Tree) |      <a href="https://www.acmicpc.net/problem/2263">백준 2263번 : 트리의 순회</a>      | <a href="https://www.acmicpc.net/problem/2263">🔗</a>  |
+| 트리(Tree) | <a href="https://www.acmicpc.net/problem/3584">백준 3584번 : 가장 가까운 공통 조상</a> | <a href="https://www.acmicpc.net/problem/3584">🔗</a>  |
+
 ## 📍 Repository Structure
 
 ```
