@@ -36,11 +36,9 @@ def postorder(node):
     print(node, end='')
 
 
-for i in range(1, n + 1):
+for i in range(n):
     node, left, right = input().split()
-    
-    if i == 1:
-        first = node
+
     if left == '.':
         left = 0
     if right == '.':
@@ -48,8 +46,8 @@ for i in range(1, n + 1):
 
     tree[node] = [left, right]
 
-preorder(first)
+preorder('A')
 print()
-inorder(first)
+inorder('A')
 print()
-postorder(first)
+postorder('A')
