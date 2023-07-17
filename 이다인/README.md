@@ -45,6 +45,15 @@
 | 최단 경로 (Dijkstra) |    <a href="https://www.acmicpc.net/problem/11403">백준 11403번 : 경로 찾기</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11403_%EA%B2%BD%EB%A1%9C_%EC%B0%BE%EA%B8%B0.py">🔗</a>               |
 | 최단 경로 (Dijkstra) |     <a href="https://www.acmicpc.net/problem/11657">백준 11657번 : 타임머신</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11657_%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0.py">🔗</a>                |
 
+### Week 07 (23.07.03.)
+
+|       Category       |                                        Title                                        |                                                                                                                Link                                                                                                                 |
+| :------------------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 트리 (Tree) |        <a href="https://www.acmicpc.net/problem/1967">백준 1967번 : 트리의 지름</a>        |                         <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_1967_%ED%8A%B8%EB%A6%AC%EC%9D%98_%EC%A7%80%EB%A6%84.py">🔗</a>                         |
+| 트리 (Tree) | <a href="https://www.acmicpc.net/problem/1991">백준 1991번 : 트리 순회</a> | <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_1991_%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C.py">🔗</a> |
+| 트리 (Tree) |    <a href="https://www.acmicpc.net/problem/3584">백준 3584번 : 가장 가까운 공통 조상</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_3584_%EA%B0%80%EC%9E%A5_%EA%B0%80%EA%B9%8C%EC%9A%B4_%EA%B3%B5%ED%86%B5_%EC%A1%B0%EC%83%81.py">🔗</a>               |
+| 트리 (Tree) |     <a href="https://www.acmicpc.net/problem/5639">백준 5639번 : 이진 검색 트리</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_5639_%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%ED%8A%B8%EB%A6%AC.py">🔗</a>                |
+
 ## 📍 Repository Structure
 
 ```
