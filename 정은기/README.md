@@ -48,6 +48,14 @@
 | 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/11404">백준 11404번 : 플로이드</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11404_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.java">🔗</a> |
 | 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/11265">백준 11265번 : 끝나지 않은 파티</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11265_%EB%81%9D%EB%82%98%EC%A7%80_%EC%95%8A%EB%8A%94_%ED%8C%8C%ED%8B%B0.java">🔗</a> |
 
+### Week 07 (23.07.03.)
+| Category | Title | Link |
+| :------: | :------: | :------: |
+| 트리(Tree) | <a href="https://www.acmicpc.net/problem/11725">백준 11725번 : 트리의 부모 찾기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_11725_%ED%8A%B8%EB%A6%AC%EC%9D%98_%EB%B6%80%EB%AA%A8_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
+| 트리(Tree) | <a href="https://www.acmicpc.net/problem/14675">백준 14675번 : 단절점과 단절선</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_14675_%EB%8B%A8%EC%A0%88%EC%A0%90%EA%B3%BC_%EB%8B%A8%EC%A0%88%EC%84%A0.java">🔗</a> |
+| 트리(Tree) | <a href="https://www.acmicpc.net/problem/1991">백준 1991번 : 트리 순회</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_1991_%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C.java">🔗</a> |
+| 트리(Tree) | <a href="https://www.acmicpc.net/problem/3584">백준 3584번 : 가장 가까운 공통 조상</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_3584_%EA%B0%80%EC%9E%A5_%EA%B0%80%EA%B9%8C%EC%9A%B4_%EA%B3%B5%ED%86%B5_%EC%A1%B0%EC%83%81.java">🔗</a> |
+
 
 
 
