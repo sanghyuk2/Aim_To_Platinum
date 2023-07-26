@@ -54,6 +54,15 @@
 | 트리 (Tree) |    <a href="https://www.acmicpc.net/problem/3584">백준 3584번 : 가장 가까운 공통 조상</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_3584_%EA%B0%80%EC%9E%A5_%EA%B0%80%EA%B9%8C%EC%9A%B4_%EA%B3%B5%ED%86%B5_%EC%A1%B0%EC%83%81.py">🔗</a>               |
 | 트리 (Tree) |     <a href="https://www.acmicpc.net/problem/5639">백준 5639번 : 이진 검색 트리</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_5639_%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%ED%8A%B8%EB%A6%AC.py">🔗</a>                |
 
+### Week 08 (23.07.17.)
+
+|       Category       |                                        Title                                        |                                                                                                                Link                                                                                                                 |
+| :------------------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 분할 정복 (Divide and Conquer) |        <a href="https://www.acmicpc.net/problem/17829">백준 17829번 : 222-풀링</a>        |                         <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5(Divide%20and%20Conquer)/BOJ_17829_222-%ED%92%80%EB%A7%81.py">🔗</a>                         |
+| 동적 계획법2 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/5557">백준 5557번 : 1학년</a> | <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%952(Dynamic%20Programming)/BOJ_5557_1%ED%95%99%EB%85%84.py">🔗</a> |
+| 탐욕법 (Greedy) |    <a href="https://www.acmicpc.net/problem/20115">백준 20115번 : 에너지 드링크</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_20115_%EC%97%90%EB%84%88%EC%A7%80_%EB%93%9C%EB%A7%81%ED%81%AC.py">🔗</a>               |
+| 최단 경로 (Dijkstra) |     <a href="https://www.acmicpc.net/problem/1238">백준 1238번 : 파티</a>     |               <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1238_%ED%8C%8C%ED%8B%B0.py">🔗</a>                |
+
 ## 📍 Repository Structure
 
 ```
