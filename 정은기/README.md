@@ -43,30 +43,39 @@
 ### Week 06 (23.06.19.)
 | Category | Title | Link |
 | :------: | :------: | :------: |
-| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/11403">백준 11403번 : 경로 찾기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11403_%EA%B2%BD%EB%A1%9C_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
-| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/1956">백준 1956번 : 운동</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1956_%EC%9A%B4%EB%8F%99.java">🔗</a> |
-| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/11404">백준 11404번 : 플로이드</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11404_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.java">🔗</a> |
-| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/11265">백준 11265번 : 끝나지 않은 파티</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11265_%EB%81%9D%EB%82%98%EC%A7%80_%EC%95%8A%EB%8A%94_%ED%8C%8C%ED%8B%B0.java">🔗</a> |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/11403">백준 11403번 : 경로 찾기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11403_%EA%B2%BD%EB%A1%9C_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/1956">백준 1956번 : 운동</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1956_%EC%9A%B4%EB%8F%99.java">🔗</a> |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/11404">백준 11404번 : 플로이드</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11404_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.java">🔗</a> |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/11265">백준 11265번 : 끝나지 않은 파티</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_11265_%EB%81%9D%EB%82%98%EC%A7%80_%EC%95%8A%EB%8A%94_%ED%8C%8C%ED%8B%B0.java">🔗</a> |
 
 ### Week 07 (23.07.03.)
 | Category | Title | Link |
 | :------: | :------: | :------: |
-| 트리(Tree) | <a href="https://www.acmicpc.net/problem/11725">백준 11725번 : 트리의 부모 찾기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_11725_%ED%8A%B8%EB%A6%AC%EC%9D%98_%EB%B6%80%EB%AA%A8_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
-| 트리(Tree) | <a href="https://www.acmicpc.net/problem/14675">백준 14675번 : 단절점과 단절선</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_14675_%EB%8B%A8%EC%A0%88%EC%A0%90%EA%B3%BC_%EB%8B%A8%EC%A0%88%EC%84%A0.java">🔗</a> |
-| 트리(Tree) | <a href="https://www.acmicpc.net/problem/1991">백준 1991번 : 트리 순회</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_1991_%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C.java">🔗</a> |
-| 트리(Tree) | <a href="https://www.acmicpc.net/problem/3584">백준 3584번 : 가장 가까운 공통 조상</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_3584_%EA%B0%80%EC%9E%A5_%EA%B0%80%EA%B9%8C%EC%9A%B4_%EA%B3%B5%ED%86%B5_%EC%A1%B0%EC%83%81.java">🔗</a> |
+| 트리 (Tree) | <a href="https://www.acmicpc.net/problem/11725">백준 11725번 : 트리의 부모 찾기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_11725_%ED%8A%B8%EB%A6%AC%EC%9D%98_%EB%B6%80%EB%AA%A8_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
+| 트리 (Tree) | <a href="https://www.acmicpc.net/problem/14675">백준 14675번 : 단절점과 단절선</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_14675_%EB%8B%A8%EC%A0%88%EC%A0%90%EA%B3%BC_%EB%8B%A8%EC%A0%88%EC%84%A0.java">🔗</a> |
+| 트리 (Tree) | <a href="https://www.acmicpc.net/problem/1991">백준 1991번 : 트리 순회</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_1991_%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C.java">🔗</a> |
+| 트리 (Tree) | <a href="https://www.acmicpc.net/problem/3584">백준 3584번 : 가장 가까운 공통 조상</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_3584_%EA%B0%80%EC%9E%A5_%EA%B0%80%EA%B9%8C%EC%9A%B4_%EA%B3%B5%ED%86%B5_%EC%A1%B0%EC%83%81.java">🔗</a> |
 
 ### Week 08 (23.07.17.)
 | Category | Title | Link |
 | :------: | :------: | :------: |
 | 탐욕법 (Greedy) | <a href="https://www.acmicpc.net/problem/11000">백준 11000번 : 강의실 배정</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/BOJ_11000_%EA%B0%95%EC%9D%98%EC%8B%A4_%EB%B0%B0%EC%A0%95.java">🔗</a> |
-| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/18352">백준 18352번 : 특정 거리의 도시 찾기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_18352_%ED%8A%B9%EC%A0%95_%EA%B1%B0%EB%A6%AC%EC%9D%98_%EB%8F%84%EC%8B%9C_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
-| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/14938">백준 14938번 : 서강그라운드</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_14938_%EC%84%9C%EA%B0%95_%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C.java">🔗</a> |
-| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/1238">백준 1238번 : 파티</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1238_%ED%8C%8C%ED%8B%B0.java">🔗</a> |
-| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/1916">백준 1916번 : 최소비용 구하기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1916_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9_%EA%B5%AC%ED%95%98%EA%B8%B0.java">🔗</a> |
-| 최단 경로(Dijkstra) | <a href="https://www.acmicpc.net/problem/1753">백준 1753번 : 최단경로</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.java">🔗</a> |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/18352">백준 18352번 : 특정 거리의 도시 찾기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_18352_%ED%8A%B9%EC%A0%95_%EA%B1%B0%EB%A6%AC%EC%9D%98_%EB%8F%84%EC%8B%9C_%EC%B0%BE%EA%B8%B0.java">🔗</a> |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/14938">백준 14938번 : 서강그라운드</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_14938_%EC%84%9C%EA%B0%95_%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C.java">🔗</a> |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/1238">백준 1238번 : 파티</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1238_%ED%8C%8C%ED%8B%B0.java">🔗</a> |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/1916">백준 1916번 : 최소비용 구하기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1916_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9_%EA%B5%AC%ED%95%98%EA%B8%B0.java">🔗</a> |
+| 최단 경로 (Dijkstra) | <a href="https://www.acmicpc.net/problem/1753">백준 1753번 : 최단경로</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C(Dijkstra)/BOJ_1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.java">🔗</a> |
+
+### Week 09 (23.08.07.)
+| Category | Title | Link |
+| :------: | :------: | :------: |
+| 이분 탐색 (BinarySearch) | <a href="https://www.acmicpc.net/problem/1477">백준 1477번 : 휴게소 세우기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_1477_%ED%9C%B4%EA%B2%8C%EC%86%8C_%EC%84%B8%EC%9A%B0%EA%B8%B0.java">🔗</a> |
+| 이분 탐색 (BinarySearch) | <a href="https://www.acmicpc.net/problem/1654">백준 1654번 : 랜선 자르기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_1654_%EB%9E%9C%EC%84%A0_%EC%9E%90%EB%A5%B4%EA%B8%B0.java">🔗</a> |
+| 이분 탐색 (BinarySearch) | <a href="https://www.acmicpc.net/problem/2805">백준 2805번 : 나무 자르기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_2805_%EB%82%98%EB%AC%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0.java">🔗</a> |
+| 이분 탐색 (BinarySearch) | <a href="https://www.acmicpc.net/problem/13397">백준 13397번 : 구간 나누기 2</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_13397_%EA%B5%AC%EA%B0%84_%EB%82%98%EB%88%84%EA%B8%B0.java">🔗</a> |
 
 
+<br/>
 
 
 ## 📍 Repository Structure
@@ -79,7 +88,9 @@
  ┃   ┣ 📂 [챕터]
  ┣ 📜 README.md
 ```
-<br>
+
+<br/>
+
 
 ## 📍 Personal Reference Site
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://blog.naver.com/b1urrr"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a> &nbsp; <a href="https://teal-floss-6e7.notion.site/Java-Syntax-and-Concepts-dc9253f0d556426e855ca129f54f9e61"><img src="https://img.shields.io./badge/Java-000000?style=for-the-badge&logo=notion&logoColor=white"></a> &nbsp; <a href="https://teal-floss-6e7.notion.site/Algorithm-56f55387bbff4430a6ea9df06187d9ab"><img src="https://img.shields.io./badge/Algorithm-000000?style=for-the-badge&logo=notion&logoColor=white"></a> 
