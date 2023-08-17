@@ -65,6 +65,15 @@
 | 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2565">백준 2565번 : 전깃줄</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2565_%EC%A0%84%EA%B9%83%EC%A4%84.java">🔗</a> |
 | 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/9095">백준 9095번 : 1,2,3 더하기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_9095_1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.java">🔗</a> |
 
+### Week 09 (23.08.7.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 이분 탐색(Binary Search) | <a href="https://www.acmicpc.net/problem/10815">백준 10815 : 숫자 카드</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_10815_%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.java">🔗</a> |
+| 이분 탐색(Binary Search) | <a href="https://www.acmicpc.net/problem/1789">백준 1789번 : 수들의 합</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_1789_%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9.java">🔗</a> |
+| 이분 탐색(Binary Search) | <a href="https://www.acmicpc.net/problem/2417">백준 2417번 : 정수 제곱근</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_2417_%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC.java">🔗</a> |
+| 이분 탐색(Binary Search) | <a href="https://www.acmicpc.net/problem/2565">백준 2565번 : 전깃줄</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_2565_%EC%A0%84%EA%B9%83%EC%A4%84.java">🔗</a> |
+| 이분 탐색(Binary Search) | <a href="https://www.acmicpc.net/problem/2805">백준 2805번 : 나무 자르기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_2805_%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java">🔗</a> |
+
 ## 📍 Repository Structure
 
 ```
