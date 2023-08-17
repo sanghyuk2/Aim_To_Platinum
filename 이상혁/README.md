@@ -57,6 +57,14 @@
 | 트리(Tree) | <a href="https://www.acmicpc.net/problem/3584">백준 3584번 : 가장 가까운 공통 조상</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_3584_%EA%B0%80%EC%9E%A5_%EA%B0%80%EA%B9%8C%EC%9A%B4_%EA%B3%B5%ED%86%B5_%EC%A1%B0%EC%83%81.java">🔗</a> |
 | 트리(Tree) | <a href="https://www.acmicpc.net/problem/5639">백준 5639번 : 이진 검색 트리</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%ED%8A%B8%EB%A6%AC(Tree)/BOJ_5639_%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%ED%8A%B8%EB%A6%AC.java">🔗</a> |
 
+### Week 08 (23.07.17.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11053">백준 11053번 : 가장 긴 증가하는 부분 수열</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_11053_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.java">🔗</a> |
+| 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11055">백준 11055번 : 가장 긴 증가하는 부분 수열</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_11055_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.java">🔗</a> |
+| 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2565">백준 2565번 : 전깃줄</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_2565_%EC%A0%84%EA%B9%83%EC%A4%84.java">🔗</a> |
+| 동적 계획법(Dynamic Programming) | <a href="https://www.acmicpc.net/problem/9095">백준 9095번 : 1,2,3 더하기</a> | <a href="https://github.com/sanghyuk2/Aim_To_Platinum/blob/main/%EC%9D%B4%EC%83%81%ED%98%81/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/BOJ_9095_1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.java">🔗</a> |
+
 ## 📍 Repository Structure
 
 ```
