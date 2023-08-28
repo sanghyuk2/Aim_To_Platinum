@@ -74,6 +74,15 @@
 | 이분 탐색 (BinarySearch) | <a href="https://www.acmicpc.net/problem/2805">백준 2805번 : 나무 자르기</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_2805_%EB%82%98%EB%AC%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0.java">🔗</a> |
 | 이분 탐색 (BinarySearch) | <a href="https://www.acmicpc.net/problem/13397">백준 13397번 : 구간 나누기 2</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_13397_%EA%B5%AC%EA%B0%84_%EB%82%98%EB%88%84%EA%B8%B0.java">🔗</a> |
 
+### Week 10 (23.08.14.)
+| Category | Title | Link |
+| :------: | :------: | :------: |
+| 깊이 & 너비 우선 탐색 (DFS&BFS) | <a href="https://www.acmicpc.net/problem/1012">백준 1012번 : 유기농 배추</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_1012_%EC%9C%A0%EA%B8%B0%EB%86%8D_%EB%B0%B0%EC%B6%94.java">🔗</a> |
+| 깊이 & 너비 우선 탐색 (DFS&BFS) | <a href="https://www.acmicpc.net/problem/11559">백준 11559번 : Puyo Puyo</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_11559_Puyo_Puyo.java">🔗</a> |
+| 깊이 & 너비 우선 탐색 (DFS&BFS) | <a href="https://www.acmicpc.net/problem/11724">백준 11724번 : 연결 요소의 개수</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_11724_%EC%97%B0%EA%B2%B0_%EC%9A%94%EC%86%8C%EC%9D%98_%EA%B0%9C%EC%88%98.java">🔗</a> |
+| 깊이 & 너비 우선 탐색 (DFS&BFS) | <a href="https://www.acmicpc.net/problem/1260">백준 1260번 : DFS와 BFS</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_1260_DFS%EC%99%80_BFS.java">🔗</a> |
+| 깊이 & 너비 우선 탐색 (DFS&BFS) | <a href="https://www.acmicpc.net/problem/2178">백준 2178번 : 미로 탐색</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_2178_%EB%AF%B8%EB%A1%9C_%ED%83%90%EC%83%89.java">🔗</a> |
+
 
 <br/>
 
