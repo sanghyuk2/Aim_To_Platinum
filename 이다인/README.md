@@ -72,6 +72,15 @@
 | 이분 탐색 (Binary Search) |   <a href="https://www.acmicpc.net/problem/13397">백준 13397번 : 구간 나누기 2</a>   |       <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_13397_%EA%B5%AC%EA%B0%84_%EB%82%98%EB%88%84%EA%B8%B02.py">🔗</a>       |
 | 이분 탐색 (Binary Search) | <a href="https://www.acmicpc.net/problem/19637">백준 19637번 : IF문 좀 대신 써줘</a> | <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search)/BOJ_19637_IF%EB%AC%B8_%EC%A2%80_%EB%8C%80%EC%8B%A0_%EC%8D%A8%EC%A4%98.py">🔗</a> |
 
+### Week 10 (23.08.14.)
+
+|             Category              |                                    Title                                     |                                                                                                                                        Link                                                                                                                                         |
+| :-------------------------------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 깊이 & 너비 우선 탐색 (DFS & BFS) |   <a href="https://www.acmicpc.net/problem/1987">백준 1987번 : 알파벳</a>    |      <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_1987_%EC%95%8C%ED%8C%8C%EB%B2%B3.py">🔗</a>      |
+| 깊이 & 너비 우선 탐색 (DFS & BFS) |  <a href="https://www.acmicpc.net/problem/2178">백준 3079번 : 미로 탐색</a>  | <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_2178_%EB%AF%B8%EB%A1%9C_%ED%83%90%EC%83%89.py">🔗</a> |
+| 깊이 & 너비 우선 탐색 (DFS & BFS) |   <a href="https://www.acmicpc.net/problem/7569">백준 7569번 : 토마토</a>    |      <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_7569_%ED%86%A0%EB%A7%88%ED%86%A0.py">🔗</a>      |
+| 깊이 & 너비 우선 탐색 (DFS & BFS) | <a href="https://www.acmicpc.net/problem/11559">백준 11559번 : Puyo Puyo</a> |              <a href="https://github.com/dain-lee/Aim_To_Platinum/blob/main/%EC%9D%B4%EB%8B%A4%EC%9D%B8/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_11559_Puyo_Puyo.py">🔗</a>               |
+
 ## 📍 Repository Structure
 
 ```
