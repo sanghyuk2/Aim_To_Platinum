@@ -83,6 +83,15 @@
 | 깊이 & 너비 우선 탐색 (DFS&BFS) | <a href="https://www.acmicpc.net/problem/1260">백준 1260번 : DFS와 BFS</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_1260_DFS%EC%99%80_BFS.java">🔗</a> |
 | 깊이 & 너비 우선 탐색 (DFS&BFS) | <a href="https://www.acmicpc.net/problem/2178">백준 2178번 : 미로 탐색</a> | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B9%8A%EC%9D%B4%20%26%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%20(DFS%20%26%20BFS)/BOJ_2178_%EB%AF%B8%EB%A1%9C_%ED%83%90%EC%83%89.java">🔗</a> |
 
+### Week 11 (23.08.28.)
+
+| Category | Title | Link |
+| :------: | :------: | :------: |
+| 구현 (Implementation) |   <a href="https://www.acmicpc.net/problem/17413">백준 17413번 : 단어 뒤집기</a>    | <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84(Implementation)/BOJ_17413_%EB%8B%A8%EC%96%B4_%EB%92%A4%EC%A7%91%EA%B8%B0.java">🔗</a> |
+| 구현 (Implementation) |   <a href="https://www.acmicpc.net/problem/20164">백준 20164번 : 홀수 홀릭 호석</a>    |            <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84(Implementation)/BOJ_20164_%ED%99%80%EC%88%98_%ED%99%80%EB%A6%AD_%ED%98%B8%EC%84%9D.java">🔗</a>            |
+| 구현 (Implementation) |  <a href="https://www.acmicpc.net/problem/20291">백준 20291번 : 파일 정리</a>   |           <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84(Implementation)/BOJ_20291_%ED%8C%8C%EC%9D%BC_%EC%A0%95%EB%A6%AC.java">🔗</a>           |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/20546">백준 20546번 : 기적의_매매법</a> |  <a href="https://github.com/eunki96/Aim_To_Platinum/blob/main/%EC%A0%95%EC%9D%80%EA%B8%B0/%EB%B0%B1%EC%A4%80/%EA%B5%AC%ED%98%84(Implementation)/BOJ_20546_%EA%B8%B0%EC%A0%81%EC%9D%98_%EB%A7%A4%EB%A7%A4%EB%B2%95.java">🔗</a>   |
+
 
 <br/>
 
